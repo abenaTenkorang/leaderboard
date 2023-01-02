@@ -1,30 +1,30 @@
 import './style.css';
 
-const arr = [
+const array = [
   {
-    name: 'abi',
+    name: 'Abi',
     score: 100,
   },
   {
-    name: 'jane',
+    name: 'Jane',
     score: 90,
   },
   {
-    name: 'james',
+    name: 'James',
     score: 100,
   },
   {
-    name: 'mimi',
+    name: 'Mimi',
     score: 100,
   },
   {
-    name: 'jude',
+    name: 'Jude',
     score: 100,
   },
 ];
 const scoresBoard = document.getElementById('container');
 
-arr.forEach((e) => {
+array.forEach((e) => {
   const score = document.createElement('p');
   score.innerText = `${e.name}: ${e.score}`;
   scoresBoard.append(score);
