@@ -72,19 +72,3 @@
   width: 67px;
 }
 
-input {
-  height: 50px;
-  border: none;
-  border-bottom: 2px black solid;
-  padding: 5px;
-  opacity: 50%;
-  background-color: powderblue;
-  color: black;
-  font-size: large;
-}
-
-button {
-  padding: 10px;
-  text-align: center;
-  border-radius: 25px;
-}
