@@ -76,7 +76,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/abenaTenkorang/Todo-list.git
+  git clone https://github.com/abenaTenkorang/leaderboard.git
   cd to-do-list
 ```
 
