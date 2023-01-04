@@ -25,6 +25,10 @@
 
  > leaderboard is a website that displays scores submitted by different people. It also allows users to submit their own score
  
+ ## Browser Display
+  
+![leaderboard](https://user-images.githubusercontent.com/109290913/210579317-9328a5cd-7043-4757-80ea-aa0c557d76a6.png)
+
 
 
 ## 🛠 Built With <a name="built-with"></a>
