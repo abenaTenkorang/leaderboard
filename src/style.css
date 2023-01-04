@@ -22,8 +22,9 @@
   width: 80%;
   align-self: center;
   justify-self: center;
-}*
-body {
+}
+
+* body {
   padding-top: 80px;
   background:
     radial-gradient(
@@ -38,7 +39,6 @@ body {
   overflow: hidden;
   font-family: "Monoton", monospace;
 }
-
 
 .scores-refreshBtn {
   display: flex;
