@@ -1,7 +1,7 @@
 const name = document.getElementById('name');
 const scores = document.getElementById('score');
 
-const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/H6BdyOXeGm1KqT7Bneve/scores';
+const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/td36kzwf5btilDkSRu6L/scores';
 let playerData = {
   user: '',
   score: '',
